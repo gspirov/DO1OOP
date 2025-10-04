@@ -15,7 +15,7 @@ public class Robot {
 	
 	public void moveDown(int distance) {
 		if (distance > 0 && (this.y + distance) <= MAX) {
-			y += 1;
+			y = y + distance;
 		}		
 	}
 	
