@@ -50,5 +50,4 @@ public class Robot {
     public int getY() {
         return y;
     }
-
 }

@@ -1,4 +1,4 @@
-package robotReturns;
+package robotConstructor;
 
 public class Robot {
 	private int x;
