@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week4/Apply4.4/ArrayStarter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week4/Apply4.6/ArrayListStarter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week4/Explore4.8/HashMapStarter/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
