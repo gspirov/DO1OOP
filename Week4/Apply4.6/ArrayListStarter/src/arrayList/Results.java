@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class Results {
 	
 	// declaration of an ArrayList to store double values
-	ArrayList<Double> results;
+	private final ArrayList<Double> results;
 	
 	// constructor, in which the ArrayList is constructed
 	public Results() {
